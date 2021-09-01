@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @YairMZ
+- 👀 I’m interested in: 
+  - error correction in coomunication systems
+  - embedded systems
+  - data sciennce
+- 🌱 I’m currently learning all of the above
+- 📫 How to reach me: yairmazal@gmail.com
